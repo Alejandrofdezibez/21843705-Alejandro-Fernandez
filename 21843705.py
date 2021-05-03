@@ -27,11 +27,11 @@ while not salir:
     opcion = Login()
 
     if opcion == 1:
-        os.system('python Matrices.py')
+        os.system('python 21843705-Matrices.py')
     elif opcion == 2:
-        os.system('python mergesort.py')
+        os.system('python 21843705-mergesort.py')
     elif opcion == 3:
-        os.system('python Fibo.py')
+        os.system('python 21843705-Fibo.py')
     elif opcion == 4:
         salir = True
     else:
